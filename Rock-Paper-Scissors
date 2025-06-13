@@ -1,0 +1,33 @@
+# 🪨 Rock Paper Scissors Game 🎮
+
+A simple **Rock Paper Scissors** game built using **Python**. Play against the computer in this classic hand game!
+
+---
+
+## 🚀 Features
+
+- User vs Computer gameplay
+- Random choice generation for computer
+- Clear win/loss/draw results
+- Option to play multiple rounds
+- Input validation included
+
+---
+
+## 🛠️ Technologies Used
+
+- Python (Core)
+- Random module
+- Input/output functions
+
+---
+
+## 📦 How to Run the Project
+
+### ✅ Requirements
+- Python 3 installed on your system
+
+### ▶️ Run it
+
+```bash
+python rock_p
